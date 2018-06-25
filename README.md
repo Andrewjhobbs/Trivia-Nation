@@ -1,2 +1,3 @@
-# zesty-tut
-For educational purposes.
+# Trivia Nation Bot
+For helping staff members 
+Only for TN.
