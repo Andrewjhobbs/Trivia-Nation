@@ -1,1 +1,2 @@
-# Trivia-Nation
+# zesty-tut
+For educational purposes.
